@@ -91,6 +91,7 @@ useEffect(() => {
   return (
     <div className="App">
   <nav className='App-header'>
+  <h3 style={{marginRight:'34%'}}>Company Connect</h3>
       <Button outline color="primary"  onClick={add}>Add</Button>
   </nav>
       <Container>
